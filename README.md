@@ -1,10 +1,8 @@
 # 회전 기반 Rule-Based 객체 탐지
 
-[image/rotate2.png
-](https://github.com/hyKwon13/Rule-based/blob/9175539e738402dfbb68ccbe8547e5da4f5a6b26/image/rotate2.png)
+![Rotate Example 1](https://github.com/hyKwon13/Rule-based/blob/9175539e738402dfbb68ccbe8547e5da4f5a6b26/image/rotate2.png)
+![Rotate Example 2](https://github.com/hyKwon13/Rule-based/blob/9175539e738402dfbb68ccbe8547e5da4f5a6b26/image/rotate3.png)
 
-[image/rotate3.png
-](https://github.com/hyKwon13/Rule-based/blob/9175539e738402dfbb68ccbe8547e5da4f5a6b26/image/rotate3.png)
 
 ## **배경**
 

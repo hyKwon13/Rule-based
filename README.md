@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/hyKwon13/Rule-based/blob/9175539e738402dfbb68ccbe8547e5da4f5a6b26/image/rotate2.png" alt="Rotate Example 1" width="300">
+      <img src="https://github.com/hyKwon13/Rule-based/blob/5d093d716e6ed39f8cd1bc27828763ccd5200c4d/image/rotate2.png" alt="Rotate Example 1" width="300">
     </td>
     <td>
       <img src="https://github.com/hyKwon13/Rule-based/blob/9175539e738402dfbb68ccbe8547e5da4f5a6b26/image/rotate3.png" alt="Rotate Example 2" width="300">

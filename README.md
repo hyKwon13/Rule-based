@@ -1,5 +1,11 @@
 # 회전 기반 Rule-Based 객체 탐지
 
+[image/rotate2.png
+](https://github.com/hyKwon13/Rule-based/blob/9175539e738402dfbb68ccbe8547e5da4f5a6b26/image/rotate2.png)
+
+[image/rotate3.png
+](https://github.com/hyKwon13/Rule-based/blob/9175539e738402dfbb68ccbe8547e5da4f5a6b26/image/rotate3.png)
+
 ## **배경**
 
 이 프로젝트는 **딥러닝을 사용하지 않고도 객체를 탐지**할 수 있는 시스템을 구축하기 위해 개발되었습니다. Rule-Based 기법을 사용함으로써, 데이터셋이나 사전 학습 모델 없이도 객체 탐지가 가능합니다.

@@ -34,17 +34,22 @@
 #### **회전 행렬**
 ROI의 이미지를 회전시키기 위해 **2D 회전 행렬**을 사용합니다. 회전 행렬은 다음과 같이 계산됩니다:
 
+<h3>회전 행렬</h3>
 <table>
-<tr>
-<td>M = </td>
-<td>
-<pre>
-[ cos(θ)  -sin(θ)   (1-cos(θ))·c_x + sin(θ)·c_y ]
-[ sin(θ)   cos(θ)   (1-cos(θ))·c_y - sin(θ)·c_x ]
-</pre>
-</td>
-</tr>
+  <tr>
+    <td>M = </td>
+    <td>
+      <pre>
+      [ cos(θ)  -sin(θ)   (1 - cos(θ)) ⋅ c_x + sin(θ) ⋅ c_y ]
+      [ sin(θ)   cos(θ)   (1 - cos(θ)) ⋅ c_y - sin(θ) ⋅ c_x ]
+      </pre>
+    </td>
+  </tr>
 </table>
+<p>
+  <b>θ</b>: 회전 각도(라디안 단위)<br>
+  <b>(c<sub>x</sub>, c<sub>y</sub>)</b>: 회전 중심(ROI의 중심점)
+</p>
 
 이 회전 행렬을 OpenCV의 `warpAffine` 함수와 결합하여 템플릿을 회전시킵니다.
 
